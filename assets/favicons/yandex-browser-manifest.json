@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "api_version": 1,
   "layout": {
-    "logo": "/ChelovekGleb-TwitchFilter/assets/favicons/yandex-browser-50x50.png",
+    "logo": "/ChelovekGleb-ContestHelpers/assets/favicons/yandex-browser-50x50.png",
     "color": "#000",
     "show_title": true
   }
