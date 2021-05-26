@@ -1,9 +1,0 @@
-{
-  "version": "2.2.2",
-  "api_version": 1,
-  "layout": {
-    "logo": "/ChelovekGleb-ContestHelpers/assets/favicons/yandex-browser-50x50.png",
-    "color": "#000",
-    "show_title": true
-  }
-}
